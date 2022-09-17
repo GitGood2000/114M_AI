@@ -1,4 +1,7 @@
-# AI
+# ЛАБОРАТОРНЫЕ РАБОТЫ ПО МАШИННОМУ ОБУЧЕНИЮ
+
+Студент: Катермин В.С.
+Группа: М8О-114М-22
 
 Current Dataset: Reddit - https://paperswithcode.com/dataset/reddit
 
