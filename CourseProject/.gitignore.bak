@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+**/img
+main.py
+Random_walk.ipynb
+**/tmp
+gitignore.bak
