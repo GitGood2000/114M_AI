@@ -1,7 +1,7 @@
 **/.ipynb_checkpoints
 **/img
+**/tmp
 main.py
 Random_walk.ipynb
-**/tmp
 gitignore.bak
 runs
